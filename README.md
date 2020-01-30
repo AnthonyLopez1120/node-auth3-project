@@ -23,7 +23,7 @@ Use Node.js, Express and Knex to build an API that provides _Authentication_ fun
 
 The user schema should include: `username`, `password` and `department`. The `department` should be a string used to group the users. No need for a `departments` table or setting up relationships.
 
-Use **JSON Web Tokens** to keep users authenticated across requests.
+Use **JSON Web Tokens** to keep users authenticated across requests
 
 ### Design and build the following endpoints.
 
